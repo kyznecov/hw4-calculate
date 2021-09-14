@@ -1,4 +1,3 @@
-
 let number1 = +prompt("Первое число");
 let sign = prompt("Знак +,-,/,*");
 let number2 = +prompt("Первое число");
